@@ -1,4 +1,4 @@
-An AI-powered web app built in just 25 minutes ⏱️ to make SQL learning simple, fast, and fun.
+An AI-powered web app built to make SQL learning simple, fast, and fun.
 
 🌟 About the Project
 
@@ -27,7 +27,7 @@ Frontend: HTML, CSS, JavaScript (AI-generated & customized)
 
 Backend: No server-side code (lightweight static app)
 
-Hosting: [GitHub Pages,]
+Hosting: [Netlify / Vercel / GitHub Pages]
 
 Version Control: Git + GitHub
 
